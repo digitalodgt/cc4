@@ -1,0 +1,10 @@
+Archivo de salida del compilador
+Scanner
+Parser
+AST
+Semantic
+IRT
+Codegen
+Algebraic Optimization
+Debug de la fase: Scanner
+Debug de la fase: Parser

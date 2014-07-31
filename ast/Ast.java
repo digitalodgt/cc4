@@ -5,7 +5,7 @@ import parser.CC4Parser;
 
 public class Ast {
 
-	public static void ast(){	
-		System.out.println("AST");
+	public static String ast(){	
+		return("AST\n");
 	}
 }

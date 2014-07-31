@@ -5,8 +5,8 @@ import java.io.*;
 
 public class Algebraic {
 
-	public static void algebraic(){
-		System.out.println("Algebraic Optimization");
+	public static String algebraic(){
+		return("Algebraic Optimization\n");
 	}
 
 }

@@ -9,7 +9,7 @@ import org.antlr.runtime.tree.*;
 
 public class CC4Parser {
 
-	public static void parse(){
-		System.out.println("Parser");
+	public static String parse(){
+		return("Parser\n");
     }
 }

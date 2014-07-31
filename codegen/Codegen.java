@@ -7,8 +7,8 @@ import lib.*;
 
 public class Codegen {
 
-	public static void codegen(){
-		System.out.println("Codegen");    
+	public static String codegen(){
+		return("Codegen\n");    
 	}
 
 }

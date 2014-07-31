@@ -4,8 +4,8 @@ import java.io.*;
 
 public class ConstantFolding {
 	
-	public static void constantfolding(){
-		System.out.println("Constant Folding Error Handler");
+	public static String constantfolding(){
+		return("Constant Folding Optimization\n");
 	}
 
 }

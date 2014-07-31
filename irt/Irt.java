@@ -6,8 +6,8 @@ import lib.*;
 
 public class Irt {
 
-	public static void irt(){
-		System.out.println("IRT");
+	public static String irt(){
+		return("IRT\n");
 	}
 	    
 }

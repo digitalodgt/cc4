@@ -5,9 +5,8 @@ import ast.Ast;
 import lib.*;
 
 public class Semantic {
-	
-	public static void semantic(){
-		System.out.println("Semantic");
+	public static String semantic(){
+		return("Semantic\n");
 	}
 
 }
